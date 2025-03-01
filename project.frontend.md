@@ -5,7 +5,7 @@
 - **Tujuan**: Menyiapkan fondasi proyek frontend yang kokoh.
 - **Tugas**:
   - Inisialisasi proyek Astro dengan dukungan **TypeScript**.
-  - Instalasi dan konfigurasi **TailwindCSS** untuk styling yang responsif dan konsisten.
+  - Instalasi dan konfigurasi **FlowbiteCSS** untuk styling yang responsif dan konsisten.
   - Membuat struktur direktori proyek:
     - `components/` untuk menyimpan komponen reusable seperti Button, Table, Card, Input, dll.
     - `pages/` untuk halaman aplikasi (misalnya, login, CMS, dashboard).
@@ -38,7 +38,7 @@
     - Validasi dan error handling serupa dengan halaman tambah.
   - **Dashboard**:
     - Menampilkan ringkasan seperti jumlah _work order_ per status menggunakan komponen **Card**.
-    - Desain responsif dengan **TailwindCSS**.
+    - Desain responsif dengan **FlowbiteCSS**.
 
 ### **Milestone 4: Fitur untuk Akses Operator**
 
@@ -72,7 +72,7 @@
 ## **Spesifikasi Teknis**
 
 - **Framework**: **Astro** untuk frontend yang cepat dan efisien.
-- **Styling**: **TailwindCSS** untuk desain yang konsisten dan responsif.
+- **Styling**: **FlowbiteCSS** untuk desain yang konsisten dan responsif.
 - **Komponen Reusable**: Button, Table, Card, Input, dll., untuk mempercepat pengembangan dan memudahkan perawatan.
 - **TypeScript**: Untuk keamanan tipe data dan kemudahan debugging.
 - **Error Handling**: Menggunakan **Popup Card** untuk menampilkan pesan kesalahan secara elegan.
