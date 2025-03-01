@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/dawamr/work-order-system-go.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/dawamr/work-order-system-astro.git
